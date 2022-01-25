@@ -1,6 +1,7 @@
 {
     "available_space": true,
-    "files": [
+    "total_size": 539.3305999999999,
+    "videos": [
         "Visto Lo Visto-PLCtWrbj9kw.mp4",
         "Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4",
         "Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-igWyYA_r06Y.mp4",
@@ -52,7 +53,5 @@
         "Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4",
         "Verano 02-jO1oFiiP4fU.mp4",
         "Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4"
-    ],
-    "id": "v",
-    "total_size": 514.345673828125
+    ]
 }
