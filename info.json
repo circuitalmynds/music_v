@@ -1,57 +1,261 @@
 {
     "available_space": true,
-    "total_size": 539.3305999999999,
-    "videos": [
-        "Visto Lo Visto-PLCtWrbj9kw.mp4",
-        "Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4",
-        "Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-igWyYA_r06Y.mp4",
-        "Velvet Underground-'There She Goes Again' from 'Velvet Underground and Nico' LP-y3E5YIP-DvU.mp4",
-        "Vivir Quintana - Canción sin miedo ft. El Palomar-VLLyzqkH6cs.mp4",
-        "Vídeo - Albert Plá Viva España.flv-nWsqw_ed38s.mp4",
-        "Vámonos al Kwai (Nos vamos a chupar)-6ALVBBhQ4Hs.mp4",
-        "Verseando para mis amigos _ Intro-AqF1ZBQIFzg.mp4",
-        "Vendedores De Dolor - Los Crudos--5rTMW9sEno.mp4",
-        "Vampire Weekend - Oxford Comma-P_i1xk07o4g.mp4",
-        "Vilma Palma e Vampiros - Mojada-dTyqrD5VJHQ.mp4",
-        "Vamos a darnos-yc4oEdUObSw.mp4",
-        "Veintitos - Los Hermanos Vega-AIZoAYWpslc.mp4",
-        "Victorias y Ganancias-vH4ewwFh2go.mp4",
-        "Vicious Streak-3dpBPWGJvNM.mp4",
-        "Velvet Underground-'Sunday Morning' from 'Velvet Underground and Nico' LP-3qK82JvRY5s.mp4",
-        "Velvet Underground-'Venus in Furs' from 'Velvet Underground and Nico' LP-iLQzaLr1enE.mp4",
-        "VIVA LA REVOLUCIÓN-Oh7x37YR8FY.mp4",
-        "Violent World-mPxhwms3jgs.mp4",
-        "Voy a Seguir Tus Pasos-_zW_rU89zFE.mp4",
-        "Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
-        "VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4",
-        "Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp4",
-        "Vanille fraise-iZAqaykiS70.mp4",
-        "Velvet Underground-'Femme Fatale' from 'Velvet Underground and Nico' LP-jog8gh40Fho.mp4",
-        "Viejo Amigo-iaXrg07-HcY.mp4",
-        "Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-fU4G_8VYlOQ.mp4",
-        "Victimas del Doctor Cerebro - Ya Tus Amigos-Pl_XU81TXMM.mp4",
-        "Ventura Highway-tnV7dTXlXxs.mp4",
-        "Velvet Underground-'I'm Waiting for the Man' w_lyrics from 'Velvet Underground and Nico' LP-Kla_Jd7EyT4.mp4",
-        "Velvet Underground-'Run Run Run' from 'Velvet Underground and Nico' LP-CGqwy_DQnS4.mp4",
-        "VENGANZA MEXICANA EN VIVO   CHUY VEGA--O9NuYmTHbg.mp4",
-        "Virginidad - Los Hermanos Vega-Qh3E7djk8RY.mp4",
-        "Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-dMeZCPbM6bA.mp4",
-        "Vas A Regresar Solita-XWG62NQmYkc.mp4",
-        "Villiers Terrace--nYcYccDbC8.mp4",
-        "Víctor Jiménez - Solo soy tu amante ( vídeo oficial )-xjeB2GNMqME.mp4",
-        "Vienes o Voy  -  Juan Gabriel-nOYdWjKM69Y.mp4",
-        "Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-WZseqKBMq4c.mp4",
-        "Viva Tepupa - La Brissa-OoB8x9hi34I.mp4",
-        "Vaughan Williams - Concerto for Violin and Strings-o0Z3mf9gzKc.mp4",
-        "Veinticinco Rosas-icQkHSdlFB4.mp4",
-        "Vilma Palma e Vampiros - La pachanga (1992)-eQF2-qrPfwc.mp4",
-        "Vivir sin ti-_GXuJfz0nmI.mp4",
-        "Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
-        "Vergüenza-nzE4SgdEb4U.mp4",
-        "Velvet Underground and Nico - All Tomorrow's Parties -M88Ca91hTWs.mp4",
-        "Vérité-tQ3HWIsZXPM.mp4",
-        "Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4",
-        "Verano 02-jO1oFiiP4fU.mp4",
-        "Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4"
-    ]
+    "files": [
+        {
+            "name": "Visto Lo Visto-PLCtWrbj9kw.mp4",
+            "path": "music_v/videos/Visto Lo Visto-PLCtWrbj9kw.mp4",
+            "size": 8.946777088000001
+        },
+        {
+            "name": "Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4",
+            "path": "music_v/videos/Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4",
+            "size": 7.2350638080000005
+        },
+        {
+            "name": "Velvet Underground-'Sunday Morning' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "path": "music_v/videos/Velvet Underground-'Sunday Morning' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 4.822646784000001
+        },
+        {
+            "name": "Vivir Quintana - Canción sin miedo ft. El Palomar-VLLyzqkH6cs.mp4",
+            "path": "music_v/videos/Vivir Quintana - Canción sin miedo ft. El Palomar-VLLyzqkH6cs.mp4",
+            "size": 15.006860288
+        },
+        {
+            "name": "Vídeo - Albert Plá Viva España.flv-nWsqw_ed38s.mp4",
+            "path": "music_v/videos/Vídeo - Albert Plá Viva España.flv-nWsqw_ed38s.mp4",
+            "size": 8.784354304
+        },
+        {
+            "name": "Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "path": "music_v/videos/Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 12.388726784000001
+        },
+        {
+            "name": "Vámonos al Kwai (Nos vamos a chupar)-6ALVBBhQ4Hs.mp4",
+            "path": "music_v/videos/Vámonos al Kwai (Nos vamos a chupar)-6ALVBBhQ4Hs.mp4",
+            "size": 5.096291328
+        },
+        {
+            "name": "Verseando para mis amigos _ Intro-AqF1ZBQIFzg.mp4",
+            "path": "music_v/videos/Verseando para mis amigos _ Intro-AqF1ZBQIFzg.mp4",
+            "size": 7.593859072000001
+        },
+        {
+            "name": "Vendedores De Dolor - Los Crudos--5rTMW9sEno.mp4",
+            "path": "music_v/videos/Vendedores De Dolor - Los Crudos--5rTMW9sEno.mp4",
+            "size": 1.8794291200000002
+        },
+        {
+            "name": "Vampire Weekend - Oxford Comma-P_i1xk07o4g.mp4",
+            "path": "music_v/videos/Vampire Weekend - Oxford Comma-P_i1xk07o4g.mp4",
+            "size": 14.532025344000001
+        },
+        {
+            "name": "Vilma Palma e Vampiros - Mojada-dTyqrD5VJHQ.mp4",
+            "path": "music_v/videos/Vilma Palma e Vampiros - Mojada-dTyqrD5VJHQ.mp4",
+            "size": 28.193661952000003
+        },
+        {
+            "name": "Velvet Underground-'Femme Fatale' from 'Velvet Underground and Nico' LP-ggHPtzVSEeE.mp4",
+            "path": "music_v/videos/Velvet Underground-'Femme Fatale' from 'Velvet Underground and Nico' LP-ggHPtzVSEeE.mp4",
+            "size": 4.60240384
+        },
+        {
+            "name": "Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-5S78t8I8Z5I.mp4",
+            "path": "music_v/videos/Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-5S78t8I8Z5I.mp4",
+            "size": 5.3298176
+        },
+        {
+            "name": "Vamos a darnos-yc4oEdUObSw.mp4",
+            "path": "music_v/videos/Vamos a darnos-yc4oEdUObSw.mp4",
+            "size": 8.551500800000001
+        },
+        {
+            "name": "Veintitos - Los Hermanos Vega-AIZoAYWpslc.mp4",
+            "path": "music_v/videos/Veintitos - Los Hermanos Vega-AIZoAYWpslc.mp4",
+            "size": 7.628077056
+        },
+        {
+            "name": "Velvet Underground-'Venus in Furs' from 'Velvet Underground and Nico' LP-X5Ji1e-4A1U.mp4",
+            "path": "music_v/videos/Velvet Underground-'Venus in Furs' from 'Velvet Underground and Nico' LP-X5Ji1e-4A1U.mp4",
+            "size": 8.970835968000001
+        },
+        {
+            "name": "Victorias y Ganancias-vH4ewwFh2go.mp4",
+            "path": "music_v/videos/Victorias y Ganancias-vH4ewwFh2go.mp4",
+            "size": 1.8393477120000001
+        },
+        {
+            "name": "Vicious Streak-3dpBPWGJvNM.mp4",
+            "path": "music_v/videos/Vicious Streak-3dpBPWGJvNM.mp4",
+            "size": 7.068747776
+        },
+        {
+            "name": "VIVA LA REVOLUCIÓN-Oh7x37YR8FY.mp4",
+            "path": "music_v/videos/VIVA LA REVOLUCIÓN-Oh7x37YR8FY.mp4",
+            "size": 26.866527232000003
+        },
+        {
+            "name": "Velvet Underground-'I'm Waiting for the Man' w_lyrics from 'Velvet Underground and Nico' LP-99og_g7rXnA.mp4",
+            "path": "music_v/videos/Velvet Underground-'I'm Waiting for the Man' w_lyrics from 'Velvet Underground and Nico' LP-99og_g7rXnA.mp4",
+            "size": 11.223189504
+        },
+        {
+            "name": "Violent World-mPxhwms3jgs.mp4",
+            "path": "music_v/videos/Violent World-mPxhwms3jgs.mp4",
+            "size": 3.789111296
+        },
+        {
+            "name": "Voy a Seguir Tus Pasos-_zW_rU89zFE.mp4",
+            "path": "music_v/videos/Voy a Seguir Tus Pasos-_zW_rU89zFE.mp4",
+            "size": 7.3486940160000005
+        },
+        {
+            "name": "Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
+            "path": "music_v/videos/Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
+            "size": 10.904019968
+        },
+        {
+            "name": "Velvet Underground-'There She Goes Again' from 'Velvet Underground and Nico' LP-QbW39jwtewE.mp4",
+            "path": "music_v/videos/Velvet Underground-'There She Goes Again' from 'Velvet Underground and Nico' LP-QbW39jwtewE.mp4",
+            "size": 4.420524032
+        },
+        {
+            "name": "VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4",
+            "path": "music_v/videos/VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4",
+            "size": 6.184864768000001
+        },
+        {
+            "name": "Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp4",
+            "path": "music_v/videos/Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp4",
+            "size": 8.162542592000001
+        },
+        {
+            "name": "Vanille fraise-iZAqaykiS70.mp4",
+            "path": "music_v/videos/Vanille fraise-iZAqaykiS70.mp4",
+            "size": 8.15795712
+        },
+        {
+            "name": "Viejo Amigo-iaXrg07-HcY.mp4",
+            "path": "music_v/videos/Viejo Amigo-iaXrg07-HcY.mp4",
+            "size": 7.0556600320000005
+        },
+        {
+            "name": "Victimas del Doctor Cerebro - Ya Tus Amigos-Pl_XU81TXMM.mp4",
+            "path": "music_v/videos/Victimas del Doctor Cerebro - Ya Tus Amigos-Pl_XU81TXMM.mp4",
+            "size": 14.222088192000001
+        },
+        {
+            "name": "Ventura Highway-tnV7dTXlXxs.mp4",
+            "path": "music_v/videos/Ventura Highway-tnV7dTXlXxs.mp4",
+            "size": 7.956388864000001
+        },
+        {
+            "name": "VENGANZA MEXICANA EN VIVO   CHUY VEGA--O9NuYmTHbg.mp4",
+            "path": "music_v/videos/VENGANZA MEXICANA EN VIVO   CHUY VEGA--O9NuYmTHbg.mp4",
+            "size": 19.02656
+        },
+        {
+            "name": "Vas A Regresar Solita-XWG62NQmYkc.mp4",
+            "path": "music_v/videos/Vas A Regresar Solita-XWG62NQmYkc.mp4",
+            "size": 7.806499840000001
+        },
+        {
+            "name": "Villiers Terrace--nYcYccDbC8.mp4",
+            "path": "music_v/videos/Villiers Terrace--nYcYccDbC8.mp4",
+            "size": 4.021535744
+        },
+        {
+            "name": "Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-KGZWb1SIiR4.mp4",
+            "path": "music_v/videos/Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-KGZWb1SIiR4.mp4",
+            "size": 3.7220894720000004
+        },
+        {
+            "name": "Víctor Jiménez - Solo soy tu amante ( vídeo oficial )-xjeB2GNMqME.mp4",
+            "path": "music_v/videos/Víctor Jiménez - Solo soy tu amante ( vídeo oficial )-xjeB2GNMqME.mp4",
+            "size": 22.362384384000002
+        },
+        {
+            "name": "Vienes o Voy  -  Juan Gabriel-nOYdWjKM69Y.mp4",
+            "path": "music_v/videos/Vienes o Voy  -  Juan Gabriel-nOYdWjKM69Y.mp4",
+            "size": 10.557002752
+        },
+        {
+            "name": "Viva Tepupa - La Brissa-OoB8x9hi34I.mp4",
+            "path": "music_v/videos/Viva Tepupa - La Brissa-OoB8x9hi34I.mp4",
+            "size": 11.201809408
+        },
+        {
+            "name": "Vaughan Williams - Concerto for Violin and Strings-o0Z3mf9gzKc.mp4",
+            "path": "music_v/videos/Vaughan Williams - Concerto for Violin and Strings-o0Z3mf9gzKc.mp4",
+            "size": 46.935023616
+        },
+        {
+            "name": "Veinticinco Rosas-icQkHSdlFB4.mp4",
+            "path": "music_v/videos/Veinticinco Rosas-icQkHSdlFB4.mp4",
+            "size": 5.140432896
+        },
+        {
+            "name": "Vilma Palma e Vampiros - La pachanga (1992)-eQF2-qrPfwc.mp4",
+            "path": "music_v/videos/Vilma Palma e Vampiros - La pachanga (1992)-eQF2-qrPfwc.mp4",
+            "size": 20.964379648
+        },
+        {
+            "name": "Vivir sin ti-_GXuJfz0nmI.mp4",
+            "path": "music_v/videos/Vivir sin ti-_GXuJfz0nmI.mp4",
+            "size": 5.4461757440000005
+        },
+        {
+            "name": "Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
+            "path": "music_v/videos/Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
+            "size": 4.3464919040000005
+        },
+        {
+            "name": "Vergüenza-nzE4SgdEb4U.mp4",
+            "path": "music_v/videos/Vergüenza-nzE4SgdEb4U.mp4",
+            "size": 8.678982656
+        },
+        {
+            "name": "Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "path": "music_v/videos/Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 12.877111296
+        },
+        {
+            "name": "Velvet Underground and Nico - All Tomorrow's Parties -M88Ca91hTWs.mp4",
+            "path": "music_v/videos/Velvet Underground and Nico - All Tomorrow's Parties -M88Ca91hTWs.mp4",
+            "size": 10.33485312
+        },
+        {
+            "name": "Vérité-tQ3HWIsZXPM.mp4",
+            "path": "music_v/videos/Vérité-tQ3HWIsZXPM.mp4",
+            "size": 3.8774487040000003
+        },
+        {
+            "name": "Virginidad - Los Hermanos Vega-gHwBybWDULk.mp4",
+            "path": "music_v/videos/Virginidad - Los Hermanos Vega-gHwBybWDULk.mp4",
+            "size": 7.810680832
+        },
+        {
+            "name": "Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4",
+            "path": "music_v/videos/Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4",
+            "size": 21.857403904
+        },
+        {
+            "name": "Velvet Underground-'Run Run Run' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "path": "music_v/videos/Velvet Underground-'Run Run Run' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 7.5161272320000005
+        },
+        {
+            "name": "Verano 02-jO1oFiiP4fU.mp4",
+            "path": "music_v/videos/Verano 02-jO1oFiiP4fU.mp4",
+            "size": 5.66926336
+        },
+        {
+            "name": "Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4",
+            "path": "music_v/videos/Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4",
+            "size": 24.416278528000003
+        }
+    ],
+    "total_size": 539.3305292800001
 }
