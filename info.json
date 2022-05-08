@@ -137,6 +137,11 @@
             "size": 7.3486940160000005
         },
         {
+            "name": "Morrissey - Everyday Is Like Sunday-d0LeL9BUPtA.mp4",
+            "path": "music_v/videos/Morrissey - Everyday Is Like Sunday-d0LeL9BUPtA.mp4",
+            "size": 12.482919424
+        },
+        {
             "name": "Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
             "path": "music_v/videos/Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
             "size": 10.904019968
@@ -237,6 +242,11 @@
             "size": 20.964379648
         },
         {
+            "name": "Balada para un Loco-oVZUI6SAAdI.mp4",
+            "path": "music_v/videos/Balada para un Loco-oVZUI6SAAdI.mp4",
+            "size": 4.978203648
+        },
+        {
             "name": "Vivir sin ti-_GXuJfz0nmI.mp4",
             "path": "music_v/videos/Vivir sin ti-_GXuJfz0nmI.mp4",
             "size": 5.4461757440000005
@@ -307,5 +317,5 @@
             "size": 24.416278528000003
         }
     ],
-    "total_size": 650.8205731840001
+    "total_size": 668.281696256
 }
