@@ -207,6 +207,11 @@
             "size": 5.4461757440000005
         },
         {
+            "name": "It's My Turn Now-C7yCVPvlFAM.mp4",
+            "path": "music_v/videos/It's My Turn Now-C7yCVPvlFAM.mp4",
+            "size": 3.2221184000000003
+        },
+        {
             "name": "Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
             "path": "music_v/videos/Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
             "size": 4.3464919040000005
@@ -262,5 +267,5 @@
             "size": 24.416278528000003
         }
     ],
-    "total_size": 582.12297216
+    "total_size": 585.34509056
 }
