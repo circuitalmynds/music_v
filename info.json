@@ -1,321 +1,385 @@
 {
     "available_space": true,
-    "files": [
+    "content": [
         {
             "name": "Morrissey - Everyday Is Like Sunday-d0LeL9BUPtA.mp4",
-            "path": "music_v/videos/Morrissey - Everyday Is Like Sunday-d0LeL9BUPtA.mp4",
-            "size": 12.482919424
+            "path": "v/videos/Morrissey - Everyday Is Like Sunday-d0LeL9BUPtA.mp4",
+            "size": 12.482919424,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Morrissey - Everyday Is Like Sunday-d0LeL9BUPtA.mp4?raw=true"
         },
         {
             "name": "Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
-            "path": "music_v/videos/Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
-            "size": 10.904019968
+            "path": "v/videos/Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4",
+            "size": 10.904019968,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Viva El Alcohol-Especimen-A7L_ZF9JVqo.mp4?raw=true"
         },
         {
             "name": "Victimas del Doctor Cerebro - Ya Tus Amigos-Pl_XU81TXMM.mp4",
-            "path": "music_v/videos/Victimas del Doctor Cerebro - Ya Tus Amigos-Pl_XU81TXMM.mp4",
-            "size": 14.222088192000001
+            "path": "v/videos/Victimas del Doctor Cerebro - Ya Tus Amigos-Pl_XU81TXMM.mp4",
+            "size": 14.222088192000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Victimas del Doctor Cerebro - Ya Tus Amigos-Pl_XU81TXMM.mp4?raw=true"
         },
         {
             "name": "Viva Tepupa - La Brissa-OoB8x9hi34I.mp4",
-            "path": "music_v/videos/Viva Tepupa - La Brissa-OoB8x9hi34I.mp4",
-            "size": 11.201809408
+            "path": "v/videos/Viva Tepupa - La Brissa-OoB8x9hi34I.mp4",
+            "size": 11.201809408,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Viva Tepupa - La Brissa-OoB8x9hi34I.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "path": "music_v/videos/Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "size": 12.388726784000001
+            "path": "v/videos/Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 12.388726784000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'Heroin' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'Venus in Furs' from 'Velvet Underground and Nico' LP-X5Ji1e-4A1U.mp4",
-            "path": "music_v/videos/Velvet Underground-'Venus in Furs' from 'Velvet Underground and Nico' LP-X5Ji1e-4A1U.mp4",
-            "size": 8.970835968000001
+            "path": "v/videos/Velvet Underground-'Venus in Furs' from 'Velvet Underground and Nico' LP-X5Ji1e-4A1U.mp4",
+            "size": 8.970835968000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'Venus in Furs' from 'Velvet Underground and Nico' LP-X5Ji1e-4A1U.mp4?raw=true"
         },
         {
             "name": "Veintitos - Los Hermanos Vega-AIZoAYWpslc.mp4",
-            "path": "music_v/videos/Veintitos - Los Hermanos Vega-AIZoAYWpslc.mp4",
-            "size": 7.628077056
+            "path": "v/videos/Veintitos - Los Hermanos Vega-AIZoAYWpslc.mp4",
+            "size": 7.628077056,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Veintitos - Los Hermanos Vega-AIZoAYWpslc.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'Run Run Run' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "path": "music_v/videos/Velvet Underground-'Run Run Run' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "size": 7.5161272320000005
+            "path": "v/videos/Velvet Underground-'Run Run Run' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 7.5161272320000005,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'Run Run Run' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4?raw=true"
         },
         {
             "name": "Verano 02-jO1oFiiP4fU.mp4",
-            "path": "music_v/videos/Verano 02-jO1oFiiP4fU.mp4",
-            "size": 5.66926336
+            "path": "v/videos/Verano 02-jO1oFiiP4fU.mp4",
+            "size": 5.66926336,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Verano 02-jO1oFiiP4fU.mp4?raw=true"
         },
         {
             "name": "VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4",
-            "path": "music_v/videos/VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4",
-            "size": 6.184864768000001
+            "path": "v/videos/VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4",
+            "size": 6.184864768000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/VOLANDO VOY _ CAMARON DE LA ISLA-7lOEsFE_iPk.mp4?raw=true"
         },
         {
             "name": "Visto Lo Visto-PLCtWrbj9kw.mp4",
-            "path": "music_v/videos/Visto Lo Visto-PLCtWrbj9kw.mp4",
-            "size": 8.946777088000001
+            "path": "v/videos/Visto Lo Visto-PLCtWrbj9kw.mp4",
+            "size": 8.946777088000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Visto Lo Visto-PLCtWrbj9kw.mp4?raw=true"
         },
         {
             "name": "Veinticinco Rosas-icQkHSdlFB4.mp4",
-            "path": "music_v/videos/Veinticinco Rosas-icQkHSdlFB4.mp4",
-            "size": 5.140432896
+            "path": "v/videos/Veinticinco Rosas-icQkHSdlFB4.mp4",
+            "size": 5.140432896,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Veinticinco Rosas-icQkHSdlFB4.mp4?raw=true"
         },
         {
             "name": "Vampire Weekend - Oxford Comma-P_i1xk07o4g.mp4",
-            "path": "music_v/videos/Vampire Weekend - Oxford Comma-P_i1xk07o4g.mp4",
-            "size": 14.532025344000001
+            "path": "v/videos/Vampire Weekend - Oxford Comma-P_i1xk07o4g.mp4",
+            "size": 14.532025344000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vampire Weekend - Oxford Comma-P_i1xk07o4g.mp4?raw=true"
         },
         {
             "name": "Villiers Terrace--nYcYccDbC8.mp4",
-            "path": "music_v/videos/Villiers Terrace--nYcYccDbC8.mp4",
-            "size": 4.021535744
+            "path": "v/videos/Villiers Terrace--nYcYccDbC8.mp4",
+            "size": 4.021535744,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Villiers Terrace--nYcYccDbC8.mp4?raw=true"
         },
         {
             "name": "Vanille fraise-iZAqaykiS70.mp4",
-            "path": "music_v/videos/Vanille fraise-iZAqaykiS70.mp4",
-            "size": 8.15795712
+            "path": "v/videos/Vanille fraise-iZAqaykiS70.mp4",
+            "size": 8.15795712,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vanille fraise-iZAqaykiS70.mp4?raw=true"
         },
         {
             "name": "VENGANZA MEXICANA EN VIVO   CHUY VEGA--O9NuYmTHbg.mp4",
-            "path": "music_v/videos/VENGANZA MEXICANA EN VIVO   CHUY VEGA--O9NuYmTHbg.mp4",
-            "size": 19.02656
+            "path": "v/videos/VENGANZA MEXICANA EN VIVO   CHUY VEGA--O9NuYmTHbg.mp4",
+            "size": 19.02656,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/VENGANZA MEXICANA EN VIVO   CHUY VEGA--O9NuYmTHbg.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'Femme Fatale' from 'Velvet Underground and Nico' LP-ggHPtzVSEeE.mp4",
-            "path": "music_v/videos/Velvet Underground-'Femme Fatale' from 'Velvet Underground and Nico' LP-ggHPtzVSEeE.mp4",
-            "size": 4.60240384
+            "path": "v/videos/Velvet Underground-'Femme Fatale' from 'Velvet Underground and Nico' LP-ggHPtzVSEeE.mp4",
+            "size": 4.60240384,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'Femme Fatale' from 'Velvet Underground and Nico' LP-ggHPtzVSEeE.mp4?raw=true"
         },
         {
             "name": "Vivir Quintana - Canción sin miedo ft. El Palomar-VLLyzqkH6cs.mp4",
-            "path": "music_v/videos/Vivir Quintana - Canción sin miedo ft. El Palomar-VLLyzqkH6cs.mp4",
-            "size": 15.006860288
+            "path": "v/videos/Vivir Quintana - Canción sin miedo ft. El Palomar-VLLyzqkH6cs.mp4",
+            "size": 15.006860288,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vivir Quintana - Canción sin miedo ft. El Palomar-VLLyzqkH6cs.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'There She Goes Again' from 'Velvet Underground and Nico' LP-QbW39jwtewE.mp4",
-            "path": "music_v/videos/Velvet Underground-'There She Goes Again' from 'Velvet Underground and Nico' LP-QbW39jwtewE.mp4",
-            "size": 4.420524032
+            "path": "v/videos/Velvet Underground-'There She Goes Again' from 'Velvet Underground and Nico' LP-QbW39jwtewE.mp4",
+            "size": 4.420524032,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'There She Goes Again' from 'Velvet Underground and Nico' LP-QbW39jwtewE.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "path": "music_v/videos/Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "size": 12.877111296
+            "path": "v/videos/Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 12.877111296,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'European Son' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4?raw=true"
         },
         {
             "name": "Vídeo - Albert Plá Viva España.flv-nWsqw_ed38s.mp4",
-            "path": "music_v/videos/Vídeo - Albert Plá Viva España.flv-nWsqw_ed38s.mp4",
-            "size": 8.784354304
+            "path": "v/videos/Vídeo - Albert Plá Viva España.flv-nWsqw_ed38s.mp4",
+            "size": 8.784354304,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vídeo - Albert Plá Viva España.flv-nWsqw_ed38s.mp4?raw=true"
         },
         {
             "name": "It's My Turn Now-C7yCVPvlFAM.mp4",
-            "path": "music_v/videos/It's My Turn Now-C7yCVPvlFAM.mp4",
-            "size": 3.2221184000000003
+            "path": "v/videos/It's My Turn Now-C7yCVPvlFAM.mp4",
+            "size": 3.2221184000000003,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/It's My Turn Now-C7yCVPvlFAM.mp4?raw=true"
         },
         {
             "name": "Ventura Highway-tnV7dTXlXxs.mp4",
-            "path": "music_v/videos/Ventura Highway-tnV7dTXlXxs.mp4",
-            "size": 7.956388864000001
+            "path": "v/videos/Ventura Highway-tnV7dTXlXxs.mp4",
+            "size": 7.956388864000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Ventura Highway-tnV7dTXlXxs.mp4?raw=true"
         },
         {
             "name": "I Got A Guy-PXpPq4D2uAw.mp4",
-            "path": "music_v/videos/I Got A Guy-PXpPq4D2uAw.mp4",
-            "size": 3.641325568
+            "path": "v/videos/I Got A Guy-PXpPq4D2uAw.mp4",
+            "size": 3.641325568,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/I Got A Guy-PXpPq4D2uAw.mp4?raw=true"
         },
         {
             "name": "Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4",
-            "path": "music_v/videos/Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4",
-            "size": 24.416278528000003
+            "path": "v/videos/Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4",
+            "size": 24.416278528000003,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vivaldi - Concerto for Mandolin in C Major RV425--utT-BD0obk.mp4?raw=true"
         },
         {
             "name": "Victorias y Ganancias-vH4ewwFh2go.mp4",
-            "path": "music_v/videos/Victorias y Ganancias-vH4ewwFh2go.mp4",
-            "size": 1.8393477120000001
+            "path": "v/videos/Victorias y Ganancias-vH4ewwFh2go.mp4",
+            "size": 1.8393477120000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Victorias y Ganancias-vH4ewwFh2go.mp4?raw=true"
         },
         {
             "name": "Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp4",
-            "path": "music_v/videos/Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp4",
-            "size": 8.162542592000001
+            "path": "v/videos/Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp4",
+            "size": 8.162542592000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Van Morrison - Brown Eyed Girl (Official Audio)-UfmkgQRmmeE.mp4?raw=true"
         },
         {
             "name": "Velvet Underground and Nico - All Tomorrow's Parties -M88Ca91hTWs.mp4",
-            "path": "music_v/videos/Velvet Underground and Nico - All Tomorrow's Parties -M88Ca91hTWs.mp4",
-            "size": 10.33485312
+            "path": "v/videos/Velvet Underground and Nico - All Tomorrow's Parties -M88Ca91hTWs.mp4",
+            "size": 10.33485312,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground and Nico - All Tomorrow's Parties -M88Ca91hTWs.mp4?raw=true"
         },
         {
             "name": "Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4",
-            "path": "music_v/videos/Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4",
-            "size": 21.857403904
+            "path": "v/videos/Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4",
+            "size": 21.857403904,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vixen - Edge Of A Broken Heart (Official Video)-mQOmDUnt8Hs.mp4?raw=true"
         },
         {
             "name": "Vienes o Voy  -  Juan Gabriel-nOYdWjKM69Y.mp4",
-            "path": "music_v/videos/Vienes o Voy  -  Juan Gabriel-nOYdWjKM69Y.mp4",
-            "size": 10.557002752
+            "path": "v/videos/Vienes o Voy  -  Juan Gabriel-nOYdWjKM69Y.mp4",
+            "size": 10.557002752,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vienes o Voy  -  Juan Gabriel-nOYdWjKM69Y.mp4?raw=true"
         },
         {
             "name": "Voy a Seguir Tus Pasos-_zW_rU89zFE.mp4",
-            "path": "music_v/videos/Voy a Seguir Tus Pasos-_zW_rU89zFE.mp4",
-            "size": 7.3486940160000005
+            "path": "v/videos/Voy a Seguir Tus Pasos-_zW_rU89zFE.mp4",
+            "size": 7.3486940160000005,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Voy a Seguir Tus Pasos-_zW_rU89zFE.mp4?raw=true"
         },
         {
             "name": "Víctor Jiménez - Solo soy tu amante ( vídeo oficial )-xjeB2GNMqME.mp4",
-            "path": "music_v/videos/Víctor Jiménez - Solo soy tu amante ( vídeo oficial )-xjeB2GNMqME.mp4",
-            "size": 22.362384384000002
+            "path": "v/videos/Víctor Jiménez - Solo soy tu amante ( vídeo oficial )-xjeB2GNMqME.mp4",
+            "size": 22.362384384000002,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Víctor Jiménez - Solo soy tu amante ( vídeo oficial )-xjeB2GNMqME.mp4?raw=true"
         },
         {
             "name": "VIVA LA REVOLUCIÓN-Oh7x37YR8FY.mp4",
-            "path": "music_v/videos/VIVA LA REVOLUCIÓN-Oh7x37YR8FY.mp4",
-            "size": 26.866527232000003
+            "path": "v/videos/VIVA LA REVOLUCIÓN-Oh7x37YR8FY.mp4",
+            "size": 26.866527232000003,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/VIVA LA REVOLUCIÓN-Oh7x37YR8FY.mp4?raw=true"
         },
         {
             "name": "Vivir sin ti-_GXuJfz0nmI.mp4",
-            "path": "music_v/videos/Vivir sin ti-_GXuJfz0nmI.mp4",
-            "size": 5.4461757440000005
+            "path": "v/videos/Vivir sin ti-_GXuJfz0nmI.mp4",
+            "size": 5.4461757440000005,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vivir sin ti-_GXuJfz0nmI.mp4?raw=true"
         },
         {
             "name": "Vamos a darnos-yc4oEdUObSw.mp4",
-            "path": "music_v/videos/Vamos a darnos-yc4oEdUObSw.mp4",
-            "size": 8.551500800000001
+            "path": "v/videos/Vamos a darnos-yc4oEdUObSw.mp4",
+            "size": 8.551500800000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vamos a darnos-yc4oEdUObSw.mp4?raw=true"
         },
         {
             "name": "Viejo Amigo-iaXrg07-HcY.mp4",
-            "path": "music_v/videos/Viejo Amigo-iaXrg07-HcY.mp4",
-            "size": 7.0556600320000005
+            "path": "v/videos/Viejo Amigo-iaXrg07-HcY.mp4",
+            "size": 7.0556600320000005,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Viejo Amigo-iaXrg07-HcY.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'I'm Waiting for the Man' w_lyrics from 'Velvet Underground and Nico' LP-99og_g7rXnA.mp4",
-            "path": "music_v/videos/Velvet Underground-'I'm Waiting for the Man' w_lyrics from 'Velvet Underground and Nico' LP-99og_g7rXnA.mp4",
-            "size": 11.223189504
+            "path": "v/videos/Velvet Underground-'I'm Waiting for the Man' w_lyrics from 'Velvet Underground and Nico' LP-99og_g7rXnA.mp4",
+            "size": 11.223189504,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'I'm Waiting for the Man' w_lyrics from 'Velvet Underground and Nico' LP-99og_g7rXnA.mp4?raw=true"
         },
         {
             "name": "Vergüenza-nzE4SgdEb4U.mp4",
-            "path": "music_v/videos/Vergüenza-nzE4SgdEb4U.mp4",
-            "size": 8.678982656
+            "path": "v/videos/Vergüenza-nzE4SgdEb4U.mp4",
+            "size": 8.678982656,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vergüenza-nzE4SgdEb4U.mp4?raw=true"
         },
         {
             "name": "Verseando para mis amigos _ Intro-AqF1ZBQIFzg.mp4",
-            "path": "music_v/videos/Verseando para mis amigos _ Intro-AqF1ZBQIFzg.mp4",
-            "size": 7.593859072000001
+            "path": "v/videos/Verseando para mis amigos _ Intro-AqF1ZBQIFzg.mp4",
+            "size": 7.593859072000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Verseando para mis amigos _ Intro-AqF1ZBQIFzg.mp4?raw=true"
         },
         {
             "name": "Vilma Palma e Vampiros - Mojada-dTyqrD5VJHQ.mp4",
-            "path": "music_v/videos/Vilma Palma e Vampiros - Mojada-dTyqrD5VJHQ.mp4",
-            "size": 28.193661952000003
+            "path": "v/videos/Vilma Palma e Vampiros - Mojada-dTyqrD5VJHQ.mp4",
+            "size": 28.193661952000003,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vilma Palma e Vampiros - Mojada-dTyqrD5VJHQ.mp4?raw=true"
         },
         {
             "name": "Vas A Regresar Solita-XWG62NQmYkc.mp4",
-            "path": "music_v/videos/Vas A Regresar Solita-XWG62NQmYkc.mp4",
-            "size": 7.806499840000001
+            "path": "v/videos/Vas A Regresar Solita-XWG62NQmYkc.mp4",
+            "size": 7.806499840000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vas A Regresar Solita-XWG62NQmYkc.mp4?raw=true"
         },
         {
             "name": "Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4",
-            "path": "music_v/videos/Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4",
-            "size": 7.2350638080000005
+            "path": "v/videos/Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4",
+            "size": 7.2350638080000005,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vete Con El Mi Amor - Conjunto Primavera-0l1JxZrF9v8.mp4?raw=true"
         },
         {
             "name": "Violent World-mPxhwms3jgs.mp4",
-            "path": "music_v/videos/Violent World-mPxhwms3jgs.mp4",
-            "size": 3.789111296
+            "path": "v/videos/Violent World-mPxhwms3jgs.mp4",
+            "size": 3.789111296,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Violent World-mPxhwms3jgs.mp4?raw=true"
         },
         {
             "name": "Vérité-tQ3HWIsZXPM.mp4",
-            "path": "music_v/videos/Vérité-tQ3HWIsZXPM.mp4",
-            "size": 3.8774487040000003
+            "path": "v/videos/Vérité-tQ3HWIsZXPM.mp4",
+            "size": 3.8774487040000003,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vérité-tQ3HWIsZXPM.mp4?raw=true"
         },
         {
             "name": "Vicious Streak-3dpBPWGJvNM.mp4",
-            "path": "music_v/videos/Vicious Streak-3dpBPWGJvNM.mp4",
-            "size": 7.068747776
+            "path": "v/videos/Vicious Streak-3dpBPWGJvNM.mp4",
+            "size": 7.068747776,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vicious Streak-3dpBPWGJvNM.mp4?raw=true"
         },
         {
             "name": "Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!-qZx-Z3_n4t8.mp4",
-            "path": "music_v/videos/Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!-qZx-Z3_n4t8.mp4",
-            "size": 6.552742912
+            "path": "v/videos/Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!-qZx-Z3_n4t8.mp4",
+            "size": 6.552742912,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Astrud Gilberto - AGUA DE BEBER - 1965 Stereo!-qZx-Z3_n4t8.mp4?raw=true"
         },
         {
             "name": "Noche No Te Vayas-4NDL_jOVXes.mp4",
-            "path": "music_v/videos/Noche No Te Vayas-4NDL_jOVXes.mp4",
-            "size": 5.366242304
+            "path": "v/videos/Noche No Te Vayas-4NDL_jOVXes.mp4",
+            "size": 5.366242304,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Noche No Te Vayas-4NDL_jOVXes.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'Sunday Morning' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "path": "music_v/videos/Velvet Underground-'Sunday Morning' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
-            "size": 4.822646784000001
+            "path": "v/videos/Velvet Underground-'Sunday Morning' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4",
+            "size": 4.822646784000001,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'Sunday Morning' from 'Velvet Underground and Nico' LP-uxA3jPaftok.mp4?raw=true"
         },
         {
             "name": "Balada para un Loco-oVZUI6SAAdI.mp4",
-            "path": "music_v/videos/Balada para un Loco-oVZUI6SAAdI.mp4",
-            "size": 4.978203648
+            "path": "v/videos/Balada para un Loco-oVZUI6SAAdI.mp4",
+            "size": 4.978203648,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Balada para un Loco-oVZUI6SAAdI.mp4?raw=true"
         },
         {
             "name": "Rock It For Me--wJS9NvYVt0.mp4",
-            "path": "music_v/videos/Rock It For Me--wJS9NvYVt0.mp4",
-            "size": 3.4836346880000004
+            "path": "v/videos/Rock It For Me--wJS9NvYVt0.mp4",
+            "size": 3.4836346880000004,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Rock It For Me--wJS9NvYVt0.mp4?raw=true"
         },
         {
             "name": "Tony Orlando - DON'T LET GO - EXTENDED 12'' - 1978 + LYRICS-gSviood-t34.mp4",
-            "path": "music_v/videos/Tony Orlando - DON'T LET GO - EXTENDED 12'' - 1978 + LYRICS-gSviood-t34.mp4",
-            "size": 16.523700224000002
+            "path": "v/videos/Tony Orlando - DON'T LET GO - EXTENDED 12'' - 1978 + LYRICS-gSviood-t34.mp4",
+            "size": 16.523700224000002,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Tony Orlando - DON'T LET GO - EXTENDED 12'' - 1978 + LYRICS-gSviood-t34.mp4?raw=true"
         },
         {
             "name": "CONJUNTO PRIMAVERA  ECHAME A MI LA CULPA-Q9cdMY93TTU.mp4",
-            "path": "music_v/videos/CONJUNTO PRIMAVERA  ECHAME A MI LA CULPA-Q9cdMY93TTU.mp4",
-            "size": 18.316717056
+            "path": "v/videos/CONJUNTO PRIMAVERA  ECHAME A MI LA CULPA-Q9cdMY93TTU.mp4",
+            "size": 18.316717056,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/CONJUNTO PRIMAVERA  ECHAME A MI LA CULPA-Q9cdMY93TTU.mp4?raw=true"
         },
         {
             "name": "Vámonos al Kwai (Nos vamos a chupar)-6ALVBBhQ4Hs.mp4",
-            "path": "music_v/videos/Vámonos al Kwai (Nos vamos a chupar)-6ALVBBhQ4Hs.mp4",
-            "size": 5.096291328
+            "path": "v/videos/Vámonos al Kwai (Nos vamos a chupar)-6ALVBBhQ4Hs.mp4",
+            "size": 5.096291328,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vámonos al Kwai (Nos vamos a chupar)-6ALVBBhQ4Hs.mp4?raw=true"
         },
         {
             "name": "Vaughan Williams - Concerto for Violin and Strings-o0Z3mf9gzKc.mp4",
-            "path": "music_v/videos/Vaughan Williams - Concerto for Violin and Strings-o0Z3mf9gzKc.mp4",
-            "size": 46.935023616
+            "path": "v/videos/Vaughan Williams - Concerto for Violin and Strings-o0Z3mf9gzKc.mp4",
+            "size": 46.935023616,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vaughan Williams - Concerto for Violin and Strings-o0Z3mf9gzKc.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-5S78t8I8Z5I.mp4",
-            "path": "music_v/videos/Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-5S78t8I8Z5I.mp4",
-            "size": 5.3298176
+            "path": "v/videos/Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-5S78t8I8Z5I.mp4",
+            "size": 5.3298176,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'The Black Angel's Death Song' from 'Velvet Underground and Nico' LP-5S78t8I8Z5I.mp4?raw=true"
         },
         {
             "name": "Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-KGZWb1SIiR4.mp4",
-            "path": "music_v/videos/Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-KGZWb1SIiR4.mp4",
-            "size": 3.7220894720000004
+            "path": "v/videos/Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-KGZWb1SIiR4.mp4",
+            "size": 3.7220894720000004,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Velvet Underground-'I'll Be Your Mirror' from 'Velvet Underground and Nico' LP-KGZWb1SIiR4.mp4?raw=true"
         },
         {
             "name": "Situation-6wgdqEHD1Y0.mp4",
-            "path": "music_v/videos/Situation-6wgdqEHD1Y0.mp4",
-            "size": 7.194998784
+            "path": "v/videos/Situation-6wgdqEHD1Y0.mp4",
+            "size": 7.194998784,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Situation-6wgdqEHD1Y0.mp4?raw=true"
         },
         {
             "name": "Antonio Tormo      Linyera soy-kCmAfFw6wEE.mp4",
-            "path": "music_v/videos/Antonio Tormo      Linyera soy-kCmAfFw6wEE.mp4",
-            "size": 4.396121088
+            "path": "v/videos/Antonio Tormo      Linyera soy-kCmAfFw6wEE.mp4",
+            "size": 4.396121088,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Antonio Tormo      Linyera soy-kCmAfFw6wEE.mp4?raw=true"
         },
         {
             "name": "Vendedores De Dolor - Los Crudos--5rTMW9sEno.mp4",
-            "path": "music_v/videos/Vendedores De Dolor - Los Crudos--5rTMW9sEno.mp4",
-            "size": 1.8794291200000002
+            "path": "v/videos/Vendedores De Dolor - Los Crudos--5rTMW9sEno.mp4",
+            "size": 1.8794291200000002,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vendedores De Dolor - Los Crudos--5rTMW9sEno.mp4?raw=true"
         },
         {
             "name": "Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
-            "path": "music_v/videos/Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
-            "size": 4.3464919040000005
+            "path": "v/videos/Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4",
+            "size": 4.3464919040000005,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vieja Ciudad De Hierro - Rodrígo González-G38-S7kaMZc.mp4?raw=true"
         },
         {
             "name": "Vilma Palma e Vampiros - La pachanga (1992)-eQF2-qrPfwc.mp4",
-            "path": "music_v/videos/Vilma Palma e Vampiros - La pachanga (1992)-eQF2-qrPfwc.mp4",
-            "size": 20.964379648
+            "path": "v/videos/Vilma Palma e Vampiros - La pachanga (1992)-eQF2-qrPfwc.mp4",
+            "size": 20.964379648,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Vilma Palma e Vampiros - La pachanga (1992)-eQF2-qrPfwc.mp4?raw=true"
         },
         {
             "name": "Virginidad - Los Hermanos Vega-gHwBybWDULk.mp4",
-            "path": "music_v/videos/Virginidad - Los Hermanos Vega-gHwBybWDULk.mp4",
-            "size": 7.810680832
+            "path": "v/videos/Virginidad - Los Hermanos Vega-gHwBybWDULk.mp4",
+            "size": 7.810680832,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Virginidad - Los Hermanos Vega-gHwBybWDULk.mp4?raw=true"
         },
         {
             "name": "Patrick Cowley - Sea Hunt (1981)-LaQTpFIM6_s.mp4",
-            "path": "music_v/videos/Patrick Cowley - Sea Hunt (1981)-LaQTpFIM6_s.mp4",
-            "size": 42.79244288
+            "path": "v/videos/Patrick Cowley - Sea Hunt (1981)-LaQTpFIM6_s.mp4",
+            "size": 42.79244288,
+            "url": "https://github.com/circuitalmynds/music_v/blob/main/videos/Patrick Cowley - Sea Hunt (1981)-LaQTpFIM6_s.mp4?raw=true"
         }
     ],
+    "ready_to_push": true,
     "total_size": 668.2816962559999
 }
